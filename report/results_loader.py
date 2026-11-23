@@ -10,7 +10,7 @@ TAB = ROOT / "results" / "tables"
 FIG = ROOT / "results" / "figures"
 
 # Change this to your repository URL and rebuild.
-REPO_URL = "https://github.com/<github-username>/load-forecast-procurement"
+REPO_URL = "https://github.com/debjyotighoshal-spec/load-forecast-procurement"
 
 
 def _j(name):
