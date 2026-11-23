@@ -1,0 +1,24 @@
+{
+  "test_saving_vs_Seasonal naive (last week)_1pct_kEUR_CI95": [
+    612.2745699938584,
+    1116.0525420289339,
+    1873.098931576406
+  ],
+  "test_saving_vs_TSO public forecast_1pct_kEUR_CI95": [
+    309.09097939937095,
+    618.0418076619792,
+    985.435658190315
+  ],
+  "test_saving_vs_Quantile LSTM (tau=0.67)_1pct_kEUR_CI95": [
+    -24.24741033049016,
+    104.82850018262914,
+    279.4128648578491
+  ],
+  "val_cost_diff_valbest_minus_rec_1pct_kEUR_CI95": [
+    -114.66536135603745,
+    -13.842868261796976,
+    55.541576313711175
+  ],
+  "val_best": "Quantile LSTM (tau=0.67)",
+  "recommended": "Ensemble + +0.48 GW buffer"
+}

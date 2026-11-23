@@ -1,0 +1,7 @@
+# The raw OPSD file is 130 MB (over GitHub's 100 MB limit);
+# src/01_prepare_data.py downloads it again.
+data/raw/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
